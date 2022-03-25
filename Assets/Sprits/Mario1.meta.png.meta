@@ -1,0 +1,1164 @@
+fileFormatVersion: 2
+guid: e96642c7ada42224cad315723d7bb610
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1066242441758488530
+    second: Mario1.meta_0
+  - first:
+      213: 7009069599271183522
+    second: Mario1.meta_1
+  - first:
+      213: 7537269482758477761
+    second: Mario1.meta_2
+  - first:
+      213: 6842335590825744443
+    second: Mario1.meta_3
+  - first:
+      213: -5500132634077219548
+    second: Mario1.meta_4
+  - first:
+      213: 4734779463982684682
+    second: Mario1.meta_5
+  - first:
+      213: -7468463250026221828
+    second: Mario1.meta_6
+  - first:
+      213: 3212296210783951379
+    second: Mario1.meta_7
+  - first:
+      213: -8912745084398033180
+    second: Mario1.meta_8
+  - first:
+      213: -737030023089086941
+    second: Mario1.meta_9
+  - first:
+      213: 6206663138011565065
+    second: Mario1.meta_10
+  - first:
+      213: -966082535949482601
+    second: Mario1.meta_11
+  - first:
+      213: 6551837363845476395
+    second: Mario1.meta_12
+  - first:
+      213: -6653431315116110788
+    second: Mario1.meta_13
+  - first:
+      213: 5559345776268417185
+    second: Mario1.meta_14
+  - first:
+      213: 975343712642870881
+    second: Mario1.meta_15
+  - first:
+      213: 152289505633761397
+    second: Mario1.meta_16
+  - first:
+      213: -5707135343300415169
+    second: Mario1.meta_17
+  - first:
+      213: -7358046950354027175
+    second: Mario1.meta_18
+  - first:
+      213: -2110308100775053560
+    second: Mario1.meta_19
+  - first:
+      213: 4847766096662486987
+    second: Mario1.meta_20
+  - first:
+      213: -6507550823922988617
+    second: Mario1.meta_21
+  - first:
+      213: -3291648444315796641
+    second: Mario1.meta_22
+  - first:
+      213: 2415702696645747259
+    second: Mario1.meta_23
+  - first:
+      213: 1358768980266671337
+    second: Mario1.meta_24
+  - first:
+      213: -5143327003412334186
+    second: Mario1.meta_25
+  - first:
+      213: -6352476011844650248
+    second: Mario1.meta_26
+  - first:
+      213: 3696505029176534825
+    second: Mario1.meta_27
+  - first:
+      213: 8275804895470213169
+    second: Mario1.meta_28
+  - first:
+      213: 4903332651801196237
+    second: Mario1.meta_29
+  - first:
+      213: -1300615313618731646
+    second: Mario1.meta_30
+  - first:
+      213: 8000442663378364074
+    second: Mario1.meta_31
+  - first:
+      213: 6763696898646915518
+    second: Mario1.meta_32
+  - first:
+      213: 7586541351793565987
+    second: Mario1.meta_33
+  - first:
+      213: -9194334785572758279
+    second: Mario1.meta_34
+  - first:
+      213: 661551214435094046
+    second: Mario1.meta_35
+  - first:
+      213: -2885092977006982499
+    second: Mario1.meta_36
+  - first:
+      213: 8620374394908407710
+    second: Mario1.meta_37
+  - first:
+      213: 5263112506436995938
+    second: Mario1.meta_38
+  - first:
+      213: -7178077790511329624
+    second: Mario1.meta_39
+  - first:
+      213: -5592172597428014850
+    second: Mario1.meta_40
+  - first:
+      213: 8811947942726320498
+    second: Mario1.meta_41
+  - first:
+      213: 5850757097410948716
+    second: Mario1.meta_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mario1.meta_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 335
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e284a8ef522f331f0800000000000000
+      internalID: -1066242441758488530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 336
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a46c863aa7354160800000000000000
+      internalID: 7009069599271183522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 334
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7163019a2c99860800000000000000
+      internalID: 7537269482758477761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 335
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b385e25b7fbd4fe50800000000000000
+      internalID: 6842335590825744443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 336
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4253b40a28a9ba3b0800000000000000
+      internalID: -5500132634077219548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a908826d055b140800000000000000
+      internalID: 4734779463982684682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 336
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfea0246e30ba5890800000000000000
+      internalID: -7468463250026221828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 295
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a5c1d526e549c20800000000000000
+      internalID: 3212296210783951379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 296
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6a8d641919f4480800000000000000
+      internalID: -8912745084398033180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_9
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 295
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e1af4591b85c5f0800000000000000
+      internalID: -737030023089086941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 295
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cc0bd5d3f722650800000000000000
+      internalID: 6206663138011565065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 296
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795c5055d09c792f0800000000000000
+      internalID: -966082535949482601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 295
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20342a8e5dccea50800000000000000
+      internalID: 6551837363845476395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 220
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c4b0568734aa3a0800000000000000
+      internalID: -6653431315116110788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 222
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a81c026783c62d40800000000000000
+      internalID: 5559345776268417185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 222
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e2df560fd198d00800000000000000
+      internalID: 975343712642870881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 221
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578f15e9f7a0d1200800000000000000
+      internalID: 152289505633761397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 223
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31708994ae2cc0b0800000000000000
+      internalID: -5707135343300415169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 221
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d70838847f2e990800000000000000
+      internalID: -7358046950354027175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8077ca696fda6b2e0800000000000000
+      internalID: -2110308100775053560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 146
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfdfb19499b64340800000000000000
+      internalID: 4847766096662486987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 145
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9054e010980b5a0800000000000000
+      internalID: -6507550823922988617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 150
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bf6170e27b152d0800000000000000
+      internalID: -3291648444315796641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 150
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32e58cbdcc468120800000000000000
+      internalID: 2415702696645747259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 151
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec5d9040315bd210800000000000000
+      internalID: 1358768980266671337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 150
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699fee5475b3f98b0800000000000000
+      internalID: -5143327003412334186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_26
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 150
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa3fcd59b877d7a0800000000000000
+      internalID: -6352476011844650248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_27
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 150
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92723863dbf9c4330800000000000000
+      internalID: 3696505029176534825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 74
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138d0f094b099d270800000000000000
+      internalID: 8275804895470213169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 74
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc63f2e51132c0440800000000000000
+      internalID: 4903332651801196237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_30
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 74
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d7252634943fde0800000000000000
+      internalID: -1300615313618731646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 76
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa62c84d638470f60800000000000000
+      internalID: 8000442663378364074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_32
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 78
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9b2446e7a7ddd50800000000000000
+      internalID: 6763696898646915518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 75
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321a77b0a2fc84960800000000000000
+      internalID: 7586541351793565987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_34
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 79
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc1be7e939276080800000000000000
+      internalID: -9194334785572758279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ec121135d4e2900800000000000000
+      internalID: 661551214435094046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_36
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a4689293716f7d0800000000000000
+      internalID: -2885092977006982499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 5
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e977367e6d8b1a770800000000000000
+      internalID: 8620374394908407710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 4
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bc71f70f45a0940800000000000000
+      internalID: 5263112506436995938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_39
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae8376d748526c90800000000000000
+      internalID: -7178077790511329624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_40
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef031a7b6ac9462b0800000000000000
+      internalID: -5592172597428014850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_41
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 4
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271cf6957f35a4a70800000000000000
+      internalID: 8811947942726320498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario1.meta_42
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e664ad490123150800000000000000
+      internalID: 5850757097410948716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
